@@ -1,0 +1,12 @@
+.hand {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  justify-content: center;
+}
+
+.hand-empty {
+  text-align: center;
+  font-style: italic;
+  color: #c5c8d9;
+}
